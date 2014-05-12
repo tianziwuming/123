@@ -17,6 +17,7 @@ public class HelloWorldController {
 		ModelAndView mw= new ModelAndView();
 		mw.addObject("message", "hello! "+name +" 和 "+ name2+" come on");
 		mw.setViewName("hello");
+		//这是新加的！！！！！！！！
 		return mw;
 	}
 	
