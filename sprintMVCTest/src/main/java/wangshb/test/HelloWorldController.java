@@ -18,6 +18,7 @@ public class HelloWorldController {
 		mw.addObject("message", "hello! "+name +" 和 "+ name2+" come on");
 		mw.setViewName("hello");
 		//这是新加的！！！！！！！！
+		//这是1.2分支增加的
 		return mw;
 	}
 	
