@@ -20,6 +20,7 @@ public class HelloWorldController {
 		//这是新加的！！！！！！！！
 		//这是1.2分支增加的
 		//这是1.2 svn增加的
+		//test
 		return mw;
 	}
 	
